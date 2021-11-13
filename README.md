@@ -14,4 +14,4 @@
 ## Contact
 Nada mahmoud-  - cutenada.lara4@gmail.com
 
-Project Link: [https://github.com/nada-mah/landing-page-project](https://github.com/nada-mah/landing-page-project)
+Project Link: [https://github.com/nada-mah/weather-journal-ptroject.git](https://github.com/nada-mah/weather-journal-ptroject.git)
